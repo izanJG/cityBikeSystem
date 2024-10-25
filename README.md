@@ -21,7 +21,7 @@
 <div align = "justify">
   <h2>Applied technologies ​🔧​​​</h2>
   <ul>
-    <li>Java Development Kit (JDK) 11 – For systems development and implementation of object-oriented programming concepts.</li>
+    <li>Java Development Kit (JDK) 11: For systems development and implementation of object-oriented programming concepts.</li>
     <li>JUnit 4: Used to perform unit testing, ensuring correct system functionality.</li>
     <li>SonarQube: Used to analyze code quality, detect vulnerabilities, duplicate code and possible improvements, helping us apply best practices in programming.</li>
   </ul>
